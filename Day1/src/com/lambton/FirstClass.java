@@ -3,7 +3,7 @@ package com.lambton;
 public class FirstClass {
     public static void main(String[] args) {
         System.out.println("NItin Jy");
-
+        // comment
         int a, b, c;
 
         a = 10;
