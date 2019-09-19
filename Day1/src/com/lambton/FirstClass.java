@@ -13,6 +13,12 @@ public class FirstClass {
 
         System.out.println("SUM : " + c);
 
+        int x = Integer.MAX_VALUE;
+        System.out.println(x);
+
+        int y = x + 1;
+        System.out.println("Y : " + y);
+
     }
 
 }
